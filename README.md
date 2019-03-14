@@ -22,3 +22,4 @@ Result for now :
 4. Edit the line 108 & 109 of [loading_VRML_Eplan.html](https://github.com/nicrf/xeokit-EPLANLoader/blob/master/loading_VRML_Eplan.html)  with the name of your model.
 
 Demo from EPLAN :
+![image](demo.png)
